@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506952010 source:d:\programming\exercise3\main.cpp
+	<iostream>
+	<math.h>
+
